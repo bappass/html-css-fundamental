@@ -1,0 +1,7 @@
+/* Kita tulis tag div kemudia,*/
+/* Tambahkan dikanan, tulis . dan tambahkan nilai anak (mychild) tadi */
+div.mychild {
+    color: black;
+    background: rgb(202, 255, 9);
+    font-size: 50px;
+}
