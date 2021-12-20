@@ -1,0 +1,15 @@
+/* Kita tulis . dan tambahkan nilai (myclass) tadi */
+/* Tambahkan dikanan, tulis . dan tambahkan nilai anak (mychild) tadi */
+.myclass .mychild {
+    color: black;
+    background: rgb(162, 0, 255);
+    font-size: 50px;
+}
+
+/* Bisa juga kita menerapkan dengan cari ini*/
+/* Namun untuk beberapa kasus kita bisa menggunakan seperti di atas */
+.mysecondchild {
+    color: black;
+    background: rgb(176, 255, 156);
+    font-size: 50px;
+}
